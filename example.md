@@ -32,7 +32,18 @@
 
 ![скрін1](lb4_1.png)
 
-При малому банківському резерві, графік показував ріст WALLETS-TOTAL, як піднявся резерв графік показав спад SAVINGS-TOTAL та WALLETS-TOTAL до початкових значень.
+<table>
+<thead>
+<tr><th>Резерви</th><th>SAVINGS</th><th>WALLETS</th></tr>
+</thead>
+<tbody>
+<tr><td>50</td><td>480</td><td>0</td></tr>
+<tr><td>30</td><td>583</td><td>0</td></tr>
+<tr><td>15</td><td>662</td><td>0</td></tr>
+<tr><td>60</td><td>634</td><td>-12</td></tr>
+<tr><td>75</td><td>580</td><td>-67</td></tr>
+</tbody>
+</table>
 
 ### 2. Спочатку встановіть RESERVES на 100 і спостерігайте за ефектом на TOTAL-MONEY. Тепер спробуйте знизити РЕЗЕРВИ.
 
